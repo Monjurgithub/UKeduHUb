@@ -19,7 +19,7 @@ const PrivacyPolicy = () => {
       {/* Content */}
       <div className="max-w-6xl mx-auto px-6 pb-24 space-y-12">
         <PolicyBlock title="Introduction">
-          This Privacy Policy explains how <strong>UK Educational Hub (UKEduHub)</strong>
+          This Privacy Policy explains how <strong>UK Educational Hub (Luxbn LTD)</strong>
           collects, uses, and protects your personal data when you use our website
           <strong> www.ukeducationalhub.com</strong>. We comply with the UK GDPR,
           Data Protection Act 2018, and the Data (Use and Access) Act 2025.
